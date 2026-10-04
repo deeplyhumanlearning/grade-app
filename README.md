@@ -1,8 +1,8 @@
 # Student Grade Manager
 
-A simple Streamlit web application that brings the Day 2 Python grade calculator into the browser. It accepts student names and marks, keeps the data across Streamlit reruns with `st.session_state`, displays the grades in a table, and shows class statistics.
+A simple Streamlit web application that brings the python grade calculator into the browser. It accepts student names and marks, keeps the data across Streamlit reruns with `st.session_state`, displays the grades in a table, and shows class statistics.
 
-The grading scale is the same as the Day 2 project:
+The grading scale:
 
 | Mark | Grade |
 |---|---|

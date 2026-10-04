@@ -43,7 +43,7 @@ python -m venv .venv
 Activate it on Windows Command Prompt:
 
 ```cmd
-.venv\Scriptsctivate
+.venv\Scripts\Activate
 ```
 
 For Windows PowerShell:
